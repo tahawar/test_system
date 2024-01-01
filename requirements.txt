@@ -1,0 +1,5 @@
+streamlit
+openai
+validators
+langchain
+bs4
